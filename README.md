@@ -48,12 +48,14 @@ Business Recommendations:
 
 
 Dashboard Preview:
- 
+<img width="1317" height="742" alt="Screenshot - Sales   Profitability Analysis" src="https://github.com/user-attachments/assets/5152a5ef-0fdc-45ed-b342-1f7ea11bf92f" />
+
 
 Project Files:
-Dashboard : Power BI Dashboard Creation Workshop - Jatan Shah - 26th Jul, 2025.pbix
-Dataset : Power BI Dataset - Jatan Shah Workshop - 26 Jul 2025.xlsx
-Project Documentation : Project - Ecommerce Sales & Profitability Analysis Dashboard.docx
+Dashboard : Dashboard - Sales & Profitability Analysis.pbix
+Dataset : Dataset - Sales & Profitability Analysis.xlsx 
+Project Documentation : Project - Sales & Profitability Analysis.docx
+
 
 How to Use:
 1. Download the `.pbix` file
