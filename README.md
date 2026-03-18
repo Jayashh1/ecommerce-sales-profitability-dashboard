@@ -21,7 +21,7 @@ Dataset Details:
   - Category & Sub-category
   - Sales, Cost, Profit
   - Quantity
- - Ship Mode
+  - Ship Mode
 
 Dashboard Features:
 - KPI Cards: Total Sales (1.3M), Cost (640K), Profit (627K)
